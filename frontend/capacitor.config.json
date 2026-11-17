@@ -1,0 +1,8 @@
+{
+  "appId": "com.stockvision.app",
+  "appName": "StockVision",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}

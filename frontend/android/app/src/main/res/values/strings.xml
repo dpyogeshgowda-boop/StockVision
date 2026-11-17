@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">StockVision</string>
+    <string name="title_activity_main">StockVision</string>
+    <string name="package_name">com.stockvision.app</string>
+    <string name="custom_url_scheme">com.stockvision.app</string>
+</resources>

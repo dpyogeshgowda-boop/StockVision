@@ -1,0 +1,13 @@
+﻿venv/
+.venv/
+node_modules/
+**/node_modules/
+.idea/
+**/.gradle/
+**/build/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+stockvision_logs.txt
